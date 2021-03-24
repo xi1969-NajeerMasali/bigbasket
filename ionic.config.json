@@ -1,5 +1,7 @@
 {
   "name": "bigbasket",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
